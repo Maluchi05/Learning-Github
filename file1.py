@@ -5,3 +5,6 @@ if x%2 == 0:
     print("no is even")
 else:
     print("no is odd")
+    
+    
+print(f"{x} is the number u chose")
