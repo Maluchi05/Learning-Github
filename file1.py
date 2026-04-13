@@ -8,3 +8,4 @@ else:
     
     
 print(f"{x} is the number u chose")
+print(2*x)
